@@ -62,7 +62,7 @@ Follow these steps to quickly set up the Flexiti Studio Fullstops Next.js App Te
 Use `degit` to clone the template without git history:
 
 ```bash
-npx degit yourusername/flexiti-studio-fullstops-template my-project
+npx degit nicxd531/fullstack-next-template my-project
 cd my-project
 2. Install dependencies
 
